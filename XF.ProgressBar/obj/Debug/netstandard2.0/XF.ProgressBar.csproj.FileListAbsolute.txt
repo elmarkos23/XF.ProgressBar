@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\GitHub\XF.ProgressBar\XF.ProgressBar\XF.ProgressBar\obj\Debug\netstandard2.0\XF.ProgressBar.csprojAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\XF.ProgressBar\XF.ProgressBar\XF.ProgressBar\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\admin\Documents\GitHub\XF.ProgressBar\XF.ProgressBar\XF.ProgressBar\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\admin\Documents\GitHub\XF.ProgressBar\XF.ProgressBar\XF.ProgressBar\obj\Debug\netstandard2.0\XF.ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\XF.ProgressBar\XF.ProgressBar\XF.ProgressBar\obj\Debug\netstandard2.0\XF.ProgressBar.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\XF.ProgressBar\XF.ProgressBar\XF.ProgressBar\obj\Debug\netstandard2.0\XF.ProgressBar.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\XF.ProgressBar\XF.ProgressBar\XF.ProgressBar\obj\Debug\netstandard2.0\XF.ProgressBar.dll
+C:\Users\admin\Documents\GitHub\XF.ProgressBar\XF.ProgressBar\XF.ProgressBar\obj\Debug\netstandard2.0\XF.ProgressBar.pdb
+C:\Users\admin\Documents\GitHub\XF.ProgressBar\XF.ProgressBar\XF.ProgressBar\bin\Debug\netstandard2.0\XF.ProgressBar.deps.json
+C:\Users\admin\Documents\GitHub\XF.ProgressBar\XF.ProgressBar\XF.ProgressBar\bin\Debug\netstandard2.0\XF.ProgressBar.dll
+C:\Users\admin\Documents\GitHub\XF.ProgressBar\XF.ProgressBar\XF.ProgressBar\bin\Debug\netstandard2.0\XF.ProgressBar.pdb
+C:\Users\admin\Documents\GitHub\XF.ProgressBar\XF.ProgressBar\XF.ProgressBar\obj\Debug\netstandard2.0\XamlC.stamp

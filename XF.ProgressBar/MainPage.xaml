@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XF.ProgressBar"
+             x:Class="XF.ProgressBar.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Button Text="Cargar Proceso!"
+                Clicked="Button_Clicked"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        <ProgressBar x:Name="pbCargarndo" Progress="0" ProgressColor="Gray" HeightRequest="20"/>
+
+
+    </StackLayout>
+
+</ContentPage>
