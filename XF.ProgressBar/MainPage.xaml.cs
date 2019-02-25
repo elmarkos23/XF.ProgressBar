@@ -13,16 +13,24 @@ namespace XF.ProgressBar
         public MainPage()
         {
             InitializeComponent();
+
+            
+        }
+        private async void funCargar2()
+        {
+            pbCargarndo2.Progress = 0;
+            //1 parametro cargando
+            //2. velocidad
+            //
+            await pbCargarndo2.ProgressTo(0.8, 500, Easing.BounceIn);
         }
         private void funCargar()
         {
-            pbCargarndo.Progress = 0;
+            pbCargarndo1.Progress = 0;
             Task.Run(() => {
-                for (int i = 0; i < 1000; i++)
+                for (int i = 0; i < 10000; i++)
                 {
-                    Thread.Sleep(5);
-                    pbCargarndo.Progress = Convert.ToDouble("00." + i.ToString());
-                    pbCargarndo.Progress = i;
+                    pbCargarndo1.Progress = Convert.ToDouble("0." + i.ToString());
                 }
             });
         }
@@ -30,6 +38,7 @@ namespace XF.ProgressBar
         private void Button_Clicked(object sender, EventArgs e)
         {
             funCargar();
+            funCargar2();
         }
     }
 }

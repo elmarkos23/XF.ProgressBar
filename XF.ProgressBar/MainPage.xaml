@@ -10,7 +10,8 @@
                 Clicked="Button_Clicked"
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
-        <ProgressBar x:Name="pbCargarndo" Progress="0" ProgressColor="Gray" HeightRequest="20"/>
+        <ProgressBar x:Name="pbCargarndo1" Progress="0" BackgroundColor="DarkRed" ProgressColor="White" />
+        <ProgressBar x:Name="pbCargarndo2" Progress="0" BackgroundColor="DarkRed" ProgressColor="White" />
 
 
     </StackLayout>
